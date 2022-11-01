@@ -1,7 +1,7 @@
 {
     "name": "MiraiBypass-RqzaX",
     "version": "1.2.14",
-    "description": "File được mod và chia sẻ bởi RqzaX",
+    "description": "File được mod và chia sẻ bởi RqzaX. Cấm share file dưới mọi hình thức",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
