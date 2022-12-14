@@ -91,5 +91,13 @@
         "youtube-search-api": "^1.1.0",
         "ytdl": "^1.4.1",
         "ytdl-core": "^4.11.0"
-    }
+    },
+    "bugs": {
+        "url": "https://github.com/quyenkaneki/miraibot/issues"
+    },
+    "homepage": "https://github.com/RqzaX040/Global-Hokai/blob/main/README.md",
+    "devDependencies": {
+        "node": "^12.22.10"
+    },
+    "keywords": []
 }
