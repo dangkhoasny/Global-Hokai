@@ -1,6 +1,6 @@
 {
     "name": "Bypass-RqzaX",
-    "version": "15.0.0",
+    "version": "16.7",
     "description": "File Bot do RqzaX source lại.",
     "main": "mirai.js",
     "scripts": {
