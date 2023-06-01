@@ -1,6 +1,6 @@
 {
   "name": "bypass-r1zax",
-  "version": "16.7",
+  "version": "16.7.0",
   "description": "File Bot do R1zaX source lại.",
   "main": "mirai.js",
   "scripts": {
